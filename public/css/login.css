@@ -1,0 +1,35 @@
+#wrap
+{
+    display: flex;
+    justify-content: center;
+}
+
+#login-form
+{
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    width: 500px;
+    height: 500px;
+}
+
+#input-wrap
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+label
+{
+    display: flex;
+    justify-content: center;
+}
+
+#btn
+{
+    display: flex;
+    align-items: center;
+    width: 17em;
+    height: 2em;
+}
